@@ -1,1 +1,1 @@
-# weightlifting_team #1
+# AIS Novations internship team project
